@@ -844,7 +844,7 @@ export default function Home() {
                   className="text-sm font-semibold"
                   style={{ color: "#1e1b4b" }}
                 >
-                  qiyamipsz08@gmail.com
+                  qiyami@gmail.com
                 </p>
               </div>
             </a>
@@ -920,7 +920,7 @@ export default function Home() {
                   className="text-sm font-semibold"
                   style={{ color: "#1e1b4b" }}
                 >
-                  +6285260674775
+                  +62856067....
                 </p>
               </div>
             </a>
